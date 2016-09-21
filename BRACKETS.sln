@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BRACKETS", "BRACKETS.vcproj", "{ADDB9DCF-7A85-41B7-B231-25E4AF42B6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDB9DCF-7A85-41B7-B231-25E4AF42B6E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADDB9DCF-7A85-41B7-B231-25E4AF42B6E0}.Debug|Win32.Build.0 = Debug|Win32
+		{ADDB9DCF-7A85-41B7-B231-25E4AF42B6E0}.Release|Win32.ActiveCfg = Release|Win32
+		{ADDB9DCF-7A85-41B7-B231-25E4AF42B6E0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
